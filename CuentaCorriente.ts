@@ -52,7 +52,7 @@ export  default class CuentaCorriente {
 }
 
 const cuenta = new CuentaCorriente(1000);
-cuenta.retirar(1500);
-cuenta.consignar(1200);
-cuenta.extracto_mensual(1400);
-cuenta.imprimir();
+// cuenta.retirar(1500);
+// cuenta.consignar(1200);
+// cuenta.extracto_mensual(1400);
+// cuenta.imprimir();
