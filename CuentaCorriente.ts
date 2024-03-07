@@ -1,4 +1,4 @@
-class CuentaCorriente {
+export  default class CuentaCorriente {
     private saldo: number;
     private sobregiro: number;
     private comision_mensual: number;
